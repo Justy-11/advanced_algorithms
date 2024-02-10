@@ -1,4 +1,4 @@
-# algorithms
+# Advanced algorithms
 
 - Two Pass algorithm - for Image Segmentation
 - Ford Fulkerson algorithm - for committee assigment problem
